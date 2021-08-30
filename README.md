@@ -1,1 +1,2 @@
-# techjournal
+
+# Nick's Tech Journal
